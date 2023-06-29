@@ -1,0 +1,122 @@
+html{
+  background-image:url(slike/7.jpg);
+  background-size:cover;
+  background-position:right;
+  background-repeat: no-repeat;
+  background-color: white;
+  background-position: center;
+}
+
+h2{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(114, 173, 36);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(236, 236, 236);
+    padding-top: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+#prozor {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0px;
+  }
+  
+#poruke {
+    background-color: white;
+    background-image:url(slike/8.jpg);
+    background-size: cover;
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+  }
+
+.moje-poruke {
+    text-align: right;
+    align-self: flex-end;
+    background-color: rgb(252, 164, 81);
+    color: rgb(236, 236, 236);
+    width: fit-content;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin-top: 4px;
+    margin-left: auto; 
+  }
+  
+.primljene-poruke-thor {
+    text-align: left;
+    align-self: flex-start;
+    background-color: rgb(93, 207, 179);
+    color: rgb(236, 236, 236);
+    width: fit-content;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin-top: 4px;
+    margin-right: auto; 
+  }
+
+.primljene-poruke-wonder-woman {
+    text-align: left;
+    align-self: flex-start;
+    background-color: rgb(207, 93, 201);
+    color: rgb(236, 236, 236);
+    width: fit-content;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin-top: 4px;
+    margin-right: auto; 
+  }
+
+  .primljene-poruke-grog{
+    text-align: left;
+    align-self: flex-start;
+    background-color: rgb(218, 206, 98);
+    color: rgb(236, 236, 236);
+    width: fit-content;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin-top: 4px;
+    margin-right: auto; 
+  }
+  
+#unos {
+    display: flex;
+    margin-top: 10px;
+    height: 40px;
+    border: 1px solid #ccc;
+  }
+  
+#unos-poruke {
+    background-color: lavender;
+    width: 70%;
+    padding: 5px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+#posalji{
+    width: 30%;
+    padding: 5px 10px;
+    background-color: rgb(144, 185, 74);
+    color:rgb(236, 236, 236);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+#posalji:hover{
+    background-color: rgb(214, 136, 34);
+  }
+
+input{
+    border: none;
+  }
+button{
+    border: none;
+  }
+  
