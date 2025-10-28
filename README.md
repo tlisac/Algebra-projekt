@@ -38,16 +38,19 @@ web-chat-app
 ## Kako pokrenuti
 
 1. Preuzmi repozitorij ili ga kloniraj:
+
+   git clone https://github.com/tlisac/Algebra-projekt.git
    
-   git clone https://github.com/tihanalisac/web-chat-app.git
-Otvori datoteku index.html u pregledniku.
-(Nema potrebe za serverom, sve radi lokalno.)
+Otvori datoteku index.html u pregledniku.(Nema potrebe za serverom, sve radi lokalno.)
+
+
 
 📸 Izgled aplikacije
 Prikaz aplikacije
 
 
-(možeš dodati vlastiti screenshot zaslona s chatom – npr. screenshots/chat.png)
+<img width="1290" height="772" alt="image" src="https://github.com/user-attachments/assets/d31237ca-30a7-4589-a062-91199d583d3b" />
+
 
 # Što sam naučila
 - Rad s DOM elementima i event listenerima
