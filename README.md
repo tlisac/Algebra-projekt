@@ -26,7 +26,7 @@ Korisnik može unositi poruke, a aplikacija nasumično generira odgovore različ
 
 ### Struktura projekta
 
-web-chat-app <br>
+Algebra-projekt <br>
 │<br>
 ├── index.html # Glavni HTML dokument<br>
 ├── index.css # Stilovi aplikacije<br>
