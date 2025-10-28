@@ -5,7 +5,7 @@ Korisnik može unositi poruke, a aplikacija nasumično generira odgovore različ
 
 ---
 
-## Funkcionalnosti
+### Funkcionalnosti
 
 - Unos poruka putem tipkovnice ili gumba "Pošalji"
 - Automatsko prikazivanje poruka u prozoru za chat
@@ -14,9 +14,9 @@ Korisnik može unositi poruke, a aplikacija nasumično generira odgovore različ
 - Automatsno pomicanje prikaza na najnoviju poruku
 - Uređen responzivan izgled pomoću CSS-a
 
----
+--
 
-## Tehnologije
+### Tehnologije
 
 - **HTML5** – struktura aplikacije  
 - **CSS3** – stilizacija i pozadinske slike  
@@ -24,45 +24,47 @@ Korisnik može unositi poruke, a aplikacija nasumično generira odgovore različ
 
 ---
 
-## Struktura projekta
+### Struktura projekta
 
-web-chat-app
-/n│
-/n├── index.html # Glavni HTML dokument
-├── index.css # Stilovi aplikacije
-├── script2.js # Logika slanja i simuliranja poruka
-└── slike/ # Pozadinske slike i vizualni elementi
+web-chat-app <br>
+│<br>
+├── index.html # Glavni HTML dokument<br>
+├── index.css # Stilovi aplikacije<br>
+├── script2.js # Logika slanja i simuliranja poruka<br>
+└── slike/ # Pozadinske slike i vizualni elementi<br>
 
 ---
 
-## Kako pokrenuti
+### Kako pokrenuti
 
 1. Preuzmi repozitorij ili ga kloniraj:
 
    git clone https://github.com/tlisac/Algebra-projekt.git
    
-Otvori datoteku index.html u pregledniku.(Nema potrebe za serverom, sve radi lokalno.)
+2. Otvori datoteku index.html u pregledniku.(Nema potrebe za serverom, sve radi lokalno.)
 
 
 
-📸Prikaz aplikacije
+### Prikaz aplikacije
 
 
 <img width="1290" height="772" alt="image" src="https://github.com/user-attachments/assets/d31237ca-30a7-4589-a062-91199d583d3b" />
 
 
-# Što sam naučila
+### Što sam naučila
 - Rad s DOM elementima i event listenerima
 - Manipulacija dinamičkim sadržajem
 - Korištenje CSS klasa za vizualno razlikovanje poruka
 - Osnove simulacije korisničkih interakcija
 
-# Moguća poboljšanja
+### Moguća poboljšanja
 - Dodavanje pravog backend servera (npr. Node.js + WebSocket)
 - Pohrana poruka u localStorage ili bazu podataka
 - Dodavanje avatara ili vremena slanja poruke
 - Uvođenje korisničkih profila
 
-Autorica: Tihana Lisac
-Godina: 2023.
+---
+
+Autorica: Tihana Lisac <br>
+Godina: 2023. <br>
 Projekt izrađen u svrhu vježbe i demonstracije osnovnih web tehnologija kao završni rad iz edukacije Front-end developer.
