@@ -27,8 +27,8 @@ Korisnik može unositi poruke, a aplikacija nasumično generira odgovore različ
 ## Struktura projekta
 
 web-chat-app
-│
-├── index.html # Glavni HTML dokument
+/n│
+/n├── index.html # Glavni HTML dokument
 ├── index.css # Stilovi aplikacije
 ├── script2.js # Logika slanja i simuliranja poruka
 └── slike/ # Pozadinske slike i vizualni elementi
@@ -45,8 +45,7 @@ Otvori datoteku index.html u pregledniku.(Nema potrebe za serverom, sve radi lok
 
 
 
-📸 Izgled aplikacije
-Prikaz aplikacije
+📸Prikaz aplikacije
 
 
 <img width="1290" height="772" alt="image" src="https://github.com/user-attachments/assets/d31237ca-30a7-4589-a062-91199d583d3b" />
